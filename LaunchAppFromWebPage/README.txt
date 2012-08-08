@@ -1,0 +1,1 @@
+This app is to demo the launching app from web page.
